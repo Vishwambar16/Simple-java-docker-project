@@ -51,7 +51,7 @@ The displayed date and time depend on the container's system clock.
 
 ```bash
 docker build -t simple-java-app .
-docker run --rm simple-java-app
+docker run simple-java-app
 ```
 
 ## 👨‍💻 Author
